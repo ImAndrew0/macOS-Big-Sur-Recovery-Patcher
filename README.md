@@ -5,4 +5,5 @@ This project is created for patch the macOS recovery on a USB stick in a simple 
 Credits:
 
 BootLoader: OpenCore
+
 macOS: Apple Inc.
